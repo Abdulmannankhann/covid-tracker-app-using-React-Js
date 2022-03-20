@@ -1,0 +1,45 @@
+.card__main {
+  height: 150px;
+  width: 400px;
+  margin: 25px;
+  align-items: center;
+  background-color: rgb(191, 210, 219);
+  padding-top: 35px;
+  border-radius: 20px;
+  box-shadow: 2px 2px #cac8c8;
+}
+
+.card__name {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card__name span {
+  font-size: 15px;
+}
+
+.card__total {
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+}
+section {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  display: grid;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.live {
+  text-align: center;
+  margin-bottom: 40px;
+}
+ul {
+  text-align: center;
+}
