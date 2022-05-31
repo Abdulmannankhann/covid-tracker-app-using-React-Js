@@ -23,7 +23,7 @@ function India() {
       </tr>
     );
   });
-
+  
   return (
     <>
       <div className="container-fluid mt-5">
@@ -38,12 +38,9 @@ function India() {
               <tr>
                 <th>State</th>
                 <th>Confirmed</th>
-
                 <th>Recovered</th>
-
                 <th>Deaths</th>
                 <th>Active</th>
-				
                 <th>Updated</th>
               </tr>
             </thead>
