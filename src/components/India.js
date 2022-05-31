@@ -32,7 +32,6 @@ function India() {
             <span className="font-weight-bold"> INDIA </span> COVID-19 Dashboard
           </h1>
         </div>
-
         <div className="table-responsive">
           <table className="table table-hover">
             <thead className="thead-dard">
