@@ -4,6 +4,7 @@ import India from "./components/India";
 import Search from "./components/Search";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
+
 function App() {
   return (
     <BrowserRouter>
